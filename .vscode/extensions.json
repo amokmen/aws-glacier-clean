@@ -1,0 +1,8 @@
+{
+	// List of extensions which should be recommended for users of this workspace.
+	"recommendations": [
+		"foxundermoon.shell-format",
+		"mads-hartmann.bash-ide-vscode",
+		"rogalmic.bash-debug"
+	]
+}
